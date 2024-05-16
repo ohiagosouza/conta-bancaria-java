@@ -1,18 +1,21 @@
-## Getting Started
+## Conta Bancária em Java
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Este exercício de criação de conta bancária em Java. O programa gera automaticamente o número de agência e conta para o cliente e imprime as informações no terminal.
 
 ## Folder Structure
 
 The workspace contains two folders by default, where:
 
 - `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+## How to Start
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+- Clone the repo
+  ```
+  git clone https://github.com/ohiagosouza/conta-bancaria-java.git
+  ```
+- Enter on `conta-bancaria-java`
+  ```
+  cd conta-bancaria-java
+  ```
+- Click `Run` in VSCode
